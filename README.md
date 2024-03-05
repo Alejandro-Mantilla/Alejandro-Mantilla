@@ -2,11 +2,24 @@
 
 <img style="display: flex; justify-content: center; align-items: center; height: 80%; margin: 0;" src="https://github.com/Alejandro-Mantilla/Alejandro-Mantilla/assets/145581430/cc004c8f-ba32-4b00-bef1-5d767ddf6e75"/>
 
-
 I'm **Alejandro Mantilla**, a passionate junior web developer constantly seeking exciting challenges and opportunities to learn and grow. 💻
 
-With an innate love for creating and problem-solving, I dive into the vast ocean of web development with enthusiasm and determination. My journey into the world of code began with a spark of curiosity and has evolved into a burning passion for transforming lines of code into captivating digital experiences.
+> With an innate love for creating and problem-solving, I dive into the vast ocean of web development with enthusiasm and determination. My journey into the world of code began with a spark of curiosity and has evolved into a burning passion for transforming lines of code into captivating digital experiences.
 I look for opportunities to apply and expand my knowledge in web development, effectively contributing to innovative and collaborative projects.
+
+
+**💡 My approach:**
+
+> I strive to combine my creativity with deep technical knowledge to build dynamic and functional websites that not only meet user needs, but also exceed them!
+
+
+**🚀 Rising skills:**
+
+> From HTML and CSS to JavaScript and frameworks like React.js, every day I embark on a journey of continuous learning, expanding my skill set and exploring new technologies to keep up with the latest trends in the world of web development.
+
+**🌟My mission:**
+
+> I seek to contribute to innovative projects where I can contribute my passion, creativity and technical skills while collaborating with a passionate team that shares my vision of making the digital world a better and more beautiful place.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
