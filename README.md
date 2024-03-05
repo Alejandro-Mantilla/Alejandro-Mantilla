@@ -36,3 +36,8 @@ I look for opportunities to apply and expand my knowledge in web development, ef
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<div style="text-align: center;">
+  <img src="https://github.com/Alejandro-Mantilla/Alejandro-Mantilla/assets/145581430/065e2924-7635-4c84-9957-447b9b529bf7" style="width: 100px;" alt="Alejandro Mantilla's image">
+  <p style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">I love connecting with different people, so if you want to say hi, I'll be happy to meet you more! :)</p>
+</div>
