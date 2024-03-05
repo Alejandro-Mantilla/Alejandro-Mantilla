@@ -1,6 +1,6 @@
 **print("Hello World!!👋")**
 
-<img style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;" src="https://github.com/Alejandro-Mantilla/Alejandro-Mantilla/assets/145581430/cc004c8f-ba32-4b00-bef1-5d767ddf6e75"/>
+<img style="display: flex; justify-content: center; align-items: center; height: 80%; margin: 0;" src="https://github.com/Alejandro-Mantilla/Alejandro-Mantilla/assets/145581430/cc004c8f-ba32-4b00-bef1-5d767ddf6e75"/>
 
 
 I'm **Alejandro Mantilla**, a passionate junior web developer constantly seeking exciting challenges and opportunities to learn and grow. 💻
