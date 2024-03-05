@@ -22,11 +22,11 @@ I look for opportunities to apply and expand my knowledge in web development, ef
 > I seek to contribute to innovative projects where I can contribute my passion, creativity and technical skills while collaborating with a passionate team that shares my vision of making the digital world a better and more beautiful place.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alemancar0511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alemancar0511" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alejandro-mancar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-mancar" height="30" width="40" /></a>
-<a href="https://fb.com/alejandro.mantilla.05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alejandro.mantilla.05" height="30" width="40" /></a>
-<a href="https://instagram.com/alejandro.mantilla.05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alejandro.mantilla.05" height="30" width="40" /></a>
+<p align="center" margin="0 20px">
+  <a href="https://twitter.com/alemancar0511" target="blank" style="margin-right: 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alemancar0511" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/alejandro-mancar" target="blank" style="margin-right: 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-mancar" height="30" width="40" /></a>
+  <a href="https://fb.com/alejandro.mantilla.05" target="blank" style="margin-right: 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alejandro.mantilla.05" height="30" width="40" /></a>
+  <a href="https://instagram.com/alejandro.mantilla.05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alejandro.mantilla.05" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
