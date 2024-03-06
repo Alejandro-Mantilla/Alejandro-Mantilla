@@ -2,6 +2,8 @@
 
 <img style="display: flex; justify-content: center; align-items: center; height: 80%; margin: 0;" src="https://github.com/Alejandro-Mantilla/Alejandro-Mantilla/assets/145581430/cc004c8f-ba32-4b00-bef1-5d767ddf6e75"/>
 
+**Follow me**
+
 <div align="center">
   <a href="https://linkedin.com/in/alejandro-mancar"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
   <a href="https://www.tiktok.com/@ale._.mc11"><img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="tiktok logo"/></a>
