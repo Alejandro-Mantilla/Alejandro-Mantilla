@@ -2,16 +2,6 @@
 
 <img style="display: flex; justify-content: center; align-items: center; height: 80%; margin: 0;" src="https://github.com/Alejandro-Mantilla/Alejandro-Mantilla/assets/145581430/cc004c8f-ba32-4b00-bef1-5d767ddf6e75"/>
 
-**Follow me**
-
-<div align="center">
-  <a href="https://linkedin.com/in/alejandro-mancar"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
-  <a href="https://www.tiktok.com/@ale._.mc11"><img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=black&logoColor=white&labelColor=FF0000&style=for-the-badge" height="25" alt="tiktok logo"/></a>
-  <a href="https://twitter.com/alemancar0511"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/></a>
-  <a href="https://instagram.com/alejandro.mantilla.05"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=E4405F&style=for-the-badge" height="25" alt="instagram logo" height="25" alt="instagram logo"/></a>
-  <a href="https://fb.com/alejandro.mantilla.05"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=1877F2&style=for-the-badge" height="25" alt="facebook logo" height="25" alt="facebook logo"/></a>
-</div>
-
 I'm **Alejandro Mantilla**, a passionate junior web developer constantly seeking exciting challenges and opportunities to learn and grow. 💻
 
 > With an innate love for creating and problem-solving, I dive into the vast ocean of web development with enthusiasm and determination. My journey into the world of code began with a spark of curiosity and has evolved into a burning passion for transforming lines of code into captivating digital experiences.
@@ -31,15 +21,16 @@ I look for opportunities to apply and expand my knowledge in web development, ef
 
 > I seek to contribute to innovative projects where I can contribute my passion, creativity and technical skills while collaborating with a passionate team that shares my vision of making the digital world a better and more beautiful place.
 
-<h3 align="left">Connect with me:</h3>
-<p align="center" margin="0 20px">
-  <a href="https://twitter.com/alemancar0511" target="blank" style="margin-right: 50px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alemancar0511" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/alejandro-mancar" target="blank" style="margin-right: 50px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-mancar" height="30" width="40" /></a>
-  <a href="https://fb.com/alejandro.mantilla.05" target="blank" style="margin-right: 50px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alejandro.mantilla.05" height="30" width="40" /></a>
-  <a href="https://instagram.com/alejandro.mantilla.05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alejandro.mantilla.05" height="30" width="40" /></a>
-</p>
+<h3 align="left"><b>Connect with me:</b></h3>
+<div align="center">
+  <a href="https://linkedin.com/in/alejandro-mancar"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
+  <a href="https://www.tiktok.com/@ale._.mc11"><img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=black&logoColor=white&labelColor=FF0000&style=for-the-badge" height="25" alt="tiktok logo"/></a>
+  <a href="https://twitter.com/alemancar0511"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/></a>
+  <a href="https://instagram.com/alejandro.mantilla.05"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=E4405F&style=for-the-badge" height="25" alt="instagram logo" height="25" alt="instagram logo"/></a>
+  <a href="https://fb.com/alejandro.mantilla.05"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=1877F2&style=for-the-badge" height="25" alt="facebook logo" height="25" alt="facebook logo"/></a>
+</div>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left"><b>Languages:</b></h3>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" style=" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
