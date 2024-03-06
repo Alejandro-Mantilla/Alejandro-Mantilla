@@ -3,9 +3,9 @@
 <img style="display: flex; justify-content: center; align-items: center; height: 80%; margin: 0;" src="https://github.com/Alejandro-Mantilla/Alejandro-Mantilla/assets/145581430/cc004c8f-ba32-4b00-bef1-5d767ddf6e75"/>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="tiktok logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://linkedin.com/in/alejandro-mancar"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
+  <a><img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="tiktok logo"/></a>
+  <a href="https://twitter.com/alemancar0511"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/></a>
 </div>
 
 I'm **Alejandro Mantilla**, a passionate junior web developer constantly seeking exciting challenges and opportunities to learn and grow. 💻
