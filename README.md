@@ -2,6 +2,12 @@
 
 <img style="display: flex; justify-content: center; align-items: center; height: 80%; margin: 0;" src="https://github.com/Alejandro-Mantilla/Alejandro-Mantilla/assets/145581430/cc004c8f-ba32-4b00-bef1-5d767ddf6e75"/>
 
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
 I'm **Alejandro Mantilla**, a passionate junior web developer constantly seeking exciting challenges and opportunities to learn and grow. 💻
 
 > With an innate love for creating and problem-solving, I dive into the vast ocean of web development with enthusiasm and determination. My journey into the world of code began with a spark of curiosity and has evolved into a burning passion for transforming lines of code into captivating digital experiences.
